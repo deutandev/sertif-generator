@@ -18,6 +18,7 @@ Atau *download source code* dan ektrak pada direktori yang diinginkan.
 ### Yang perlu disiapkan sebelum eksekusi script
 - File data penerima sertifikat dalam bentuk *spreadsheet* (.xls/.xlsx)
 - Isi berkas memiliki kolom **Nama** dan **Email**. Contoh:\
+    
     | Nomor | *Nama* | *Email* | No. HP |
     | --- | --- | --- | --- |
     | 1 | Andi Budiarto | andi@mail.com | 0851234567890 |
