@@ -1,5 +1,4 @@
 # Sertif Generator
-======
 
 Script python yang semoga berfaedah, terutama untuk sie dekdok dalam membuat sertifikat dan mendistribusikan e-sertif.
 
@@ -17,7 +16,7 @@ Dari *command line,* masuk ke direktori tempat script ini akan disimpan dan jala
 Atau *download source code* dan ektrak pada direktori yang diinginkan.
 ### Yang perlu disiapkan sebelum eksekusi script
 - File data penerima sertifikat dalam bentuk *spreadsheet* (.xls/.xlsx)
-- Isi berkas memiliki kolom **Nama** dan **Email**. Contoh:\
+- Isi berkas memiliki kolom **Nama** dan **Email**. Contoh:
     | Nomor | *Nama* | *Email* | No. HP |
     | --- | --- | --- | --- |
     | 1 | Andi Budiarto | andi@mail.com | 0851234567890 |
@@ -58,7 +57,7 @@ Ubah value dari variabel-variabel berikut sesuai keperluan:
         <body>
             <p>Hello!<br />
             How are you?<br />
-            Here is the <a href="http://www.gitlab.com/deutan/">link</a> you wanted.
+            Here is the <a href="http://www.gitlab.com/deutandev/">link</a> you wanted.
             </p>
         </body>
     </html>
