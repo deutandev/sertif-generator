@@ -16,12 +16,7 @@ Dari *command line,* masuk ke direktori tempat script ini akan disimpan dan jala
 Atau *download source code* dan ektrak pada direktori yang diinginkan.
 ### Yang perlu disiapkan sebelum eksekusi script
 - File data penerima sertifikat dalam bentuk *spreadsheet* (.xls/.xlsx)
-<<<<<<< HEAD
 - Isi berkas memiliki kolom **Nama** dan **Email**. Contoh:
-=======
-- Isi berkas memiliki kolom **Nama** dan **Email**. Contoh:\
-    
->>>>>>> 5e5b8c39e44f71a033634054927a3c9855998c1f
     | Nomor | *Nama* | *Email* | No. HP |
     | --- | --- | --- | --- |
     | 1 | Andi Budiarto | andi@mail.com | 0851234567890 |
